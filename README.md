@@ -1,4 +1,4 @@
-## ✨ Check out my Portfolio: [darwinbalino.com](https://www.darwinbalino.com/) ✨
+## ✨ Check out my Portfolio: [darwinbalino.com](https://www.darwinbalino.com/) 
 
 Features 3 projects:
 #### [NFT Marketplace dApp](https://known-origin.vercel.app/) | [Social Media App](https://veganzone.netlify.app/) | [E-Commerce App](https://amazon-e-commerce.vercel.app/)
