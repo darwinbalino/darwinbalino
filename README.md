@@ -1,4 +1,4 @@
-## ✨ Check out my Portfolio: [darwinbalino.com](www.darwinbalino.com) ✨
+## ✨ Check out my Portfolio: [darwinbalino.com](https://www.darwinbalino.com/) ✨
 
 Features 3 projects: NFT Market dApp / Social Media App / E-Commerce App
 
