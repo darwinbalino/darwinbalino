@@ -1,7 +1,7 @@
 ## ✨ Check out my Portfolio: [darwinbalino.com](https://www.darwinbalino.com/) ✨
 
-#### Features 3 projects:
-NFT Marketplace dApp | Social Media App | E-Commerce App
+Features 3 projects:
+#### NFT Marketplace dApp | Social Media App | E-Commerce App
 
 
 
